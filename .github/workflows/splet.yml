@@ -2,7 +2,7 @@ name: Prenos prosto licenciranih slik (Wikimedia Commons)
 on:
   push:
     branches: [splet]
-    paths: ['web/queries.txt', 'web/fetch.py']
+    paths: ['web/chosen.json', 'web/fetch_big.py']
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 web/fetch.py
+      - run: python3 web/fetch_big.py
       - run: |
           git config user.name "splet-bot"
           git config user.email "splet-bot@users.noreply.github.com"
