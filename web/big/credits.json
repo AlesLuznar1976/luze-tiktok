@@ -1,0 +1,254 @@
+{
+ "web_mozjanca": {
+  "title": "File:Mozjanca1.jpg",
+  "author": "Sl-Ziga",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Mozjanca1.jpg",
+  "width": 2048,
+  "height": 1536
+ },
+ "web_mozjanca_cerkev": {
+  "title": "File:Cerkev sv. Miklavža, Možjanca.JPG",
+  "author": "Mich973",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cerkev_sv._Miklav%C5%BEa,_Mo%C5%BEjanca.JPG",
+  "width": 3440,
+  "height": 2736
+ },
+ "web_stefanja": {
+  "title": "File:ŠtefanjaGora.jpg",
+  "author": "Sl-Ziga",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:%C5%A0tefanjaGora.jpg",
+  "width": 2048,
+  "height": 1536
+ },
+ "web_stefanja_zrak": {
+  "title": "File:Štefanja Gora iz zraka.jpg",
+  "author": "Luka Škerjanec",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%C5%A0tefanja_Gora_iz_zraka.jpg",
+  "width": 4000,
+  "height": 2250
+ },
+ "web_stefanja_cerkev": {
+  "title": "File:Cerkev sv. Štefana.jpg",
+  "author": "Luka Škerjanec",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cerkev_sv._%C5%A0tefana.jpg",
+  "width": 3570,
+  "height": 2231
+ },
+ "web_sencur_tabla": {
+  "title": "File:Sencur Slovenia.JPG",
+  "author": "Doremo",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sencur_Slovenia.JPG",
+  "width": 2643,
+  "height": 1573
+ },
+ "web_sencur_polja": {
+  "title": "File:Šenčur.jpg",
+  "author": "Tiia Monto",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%C5%A0en%C4%8Dur.jpg",
+  "width": 4912,
+  "height": 2820
+ },
+ "web_storzic_vrh": {
+  "title": "File:Storžič s Srednjega vrha - 2019-03-16.jpg",
+  "author": "Eleassar",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stor%C5%BEi%C4%8D_s_Srednjega_vrha_-_2019-03-16.jpg",
+  "width": 3507,
+  "height": 2279
+ },
+ "web_storzic": {
+  "title": "File:Storžič iz Preddvora - 2019-03-16.jpg",
+  "author": "Eleassar",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stor%C5%BEi%C4%8D_iz_Preddvora_-_2019-03-16.jpg",
+  "width": 3648,
+  "height": 2393
+ },
+ "web_kranj_megla": {
+  "title": "File:Kranj 19.jpg",
+  "author": "Mihael Grmek",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kranj_19.jpg",
+  "width": 3872,
+  "height": 1978
+ },
+ "web_kamniske_vas": {
+  "title": "File:Dng kamniske DT.jpg",
+  "author": "This Photo was taken by Miha Peče.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email pc.osx.linux@gmail.com or write on my talk page, f",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Dng_kamniske_DT.jpg",
+  "width": 6960,
+  "height": 4640
+ },
+ "web_kamniske_vas2": {
+  "title": "File:Dng kamniske 2.jpg",
+  "author": "This Photo was taken by Miha Peče.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email pc.osx.linux@gmail.com or write on my talk page, f",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Dng_kamniske_2.jpg",
+  "width": 6960,
+  "height": 4640
+ },
+ "web_kranj_alpe": {
+  "title": "File:Kamnik-Savinja Alps.jpg",
+  "author": "Tadeáš Gregor",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kamnik-Savinja_Alps.jpg",
+  "width": 4181,
+  "height": 1643
+ },
+ "web_alpe_vecer": {
+  "title": "File:Kamnik alps at sunset.jpg",
+  "author": "Dreamy Pixel",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kamnik_alps_at_sunset.jpg",
+  "width": 6000,
+  "height": 3000
+ },
+ "web_jezersko": {
+  "title": "File:Jezersko - Kamniško Savinjske Alpe.JPG",
+  "author": "Swedenb",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jezersko_-_Kamni%C5%A1ko_Savinjske_Alpe.JPG",
+  "width": 3648,
+  "height": 2736
+ },
+ "web_krvavec": {
+  "title": "File:Krvavec.jpg",
+  "author": "Viktar Palstsiuk",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Krvavec.jpg",
+  "width": 3000,
+  "height": 2988
+ },
+ "web_preddvor_zrak": {
+  "title": "File:Preddvor.JPG",
+  "author": "Mich973",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Preddvor.JPG",
+  "width": 3648,
+  "height": 2736
+ },
+ "web_preddvor_tabla": {
+  "title": "File:Preddvor Slovenia.jpg",
+  "author": "Doremo",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Preddvor_Slovenia.jpg",
+  "width": 4889,
+  "height": 3581
+ },
+ "web_olsevek": {
+  "title": "File:Olsevek1.JPG",
+  "author": "Sl-Ziga",
+  "license": "Public domain",
+  "license_url": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Olsevek1.JPG",
+  "width": 1600,
+  "height": 1200
+ },
+ "web_olsevek_dom": {
+  "title": "File:Olsevek, village hall.jpg",
+  "author": "Ajznponar",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Olsevek,_village_hall.jpg",
+  "width": 3000,
+  "height": 4000
+ },
+ "web_olsevek_cerkev": {
+  "title": "File:Olsevek, St. Michael church 02.jpg",
+  "author": "Ajznponar",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Olsevek,_St._Michael_church_02.jpg",
+  "width": 3180,
+  "height": 2967
+ },
+ "web_kranj_pano": {
+  "title": "File:Kranj - panorama 03.jpg",
+  "author": "Mihael Grmek",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kranj_-_panorama_03.jpg",
+  "width": 7496,
+  "height": 3441
+ },
+ "web_koruza_storzic": {
+  "title": "File:Tussen Kranj en Naklo, panorama foto2 2011-07-20 14.28.jpg",
+  "author": "Michielverbeek",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tussen_Kranj_en_Naklo,_panorama_foto2_2011-07-20_14.28.jpg",
+  "width": 4416,
+  "height": 3312
+ },
+ "web_kozolec": {
+  "title": "File:Kozolec.jpg",
+  "author": "No machine-readable author provided. Tone assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Kozolec.jpg",
+  "width": 2048,
+  "height": 1536
+ },
+ "web_peloton1": {
+  "title": "File:1 Stage 2023 Tour of Slovenia (Peloton).jpg",
+  "author": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:1_Stage_2023_Tour_of_Slovenia_(Peloton).jpg",
+  "width": 4195,
+  "height": 2139
+ },
+ "web_peloton2": {
+  "title": "File:3 Stage 2023 Tour of Slovenia (Peloton ascending on Planina).jpg",
+  "author": "Petar Milošević",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:3_Stage_2023_Tour_of_Slovenia_(Peloton_ascending_on_Planina).jpg",
+  "width": 3124,
+  "height": 1408
+ },
+ "web_gasilsko_vozilo": {
+  "title": "File:Firefighter engine in snow.jpg",
+  "author": "This Photo was taken by Miha Peče.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email pc.osx.linux@gmail.com or write on my talk page, f",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Firefighter_engine_in_snow.jpg",
+  "width": 5252,
+  "height": 3501
+ },
+ "web_brizgalna": {
+  "title": "File:Libelice, historical fire engine.jpg",
+  "author": "Ajznponar",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Libelice,_historical_fire_engine.jpg",
+  "width": 3264,
+  "height": 2448
+ }
+}
